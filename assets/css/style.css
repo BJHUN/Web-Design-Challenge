@@ -1,0 +1,28 @@
+/* my css sheet */
+
+
+.navbar-brand {
+
+    
+    background: rgb(0, 255, 255);
+}
+
+.lat_summary {
+
+
+    color: aquamarine;
+}
+
+#indextemp {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+
+}
+#latlogo {
+    margin: 0px, 500px, 500px, 500px;
+
+}
